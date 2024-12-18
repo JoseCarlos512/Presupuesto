@@ -1,0 +1,17 @@
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\bin\Debug\net8.0\Presupuestos.Infrastructure.deps.json
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\bin\Debug\net8.0\Presupuestos.Infrastructure.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\bin\Debug\net8.0\Presupuestos.Infrastructure.pdb
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\bin\Debug\net8.0\Presupuestos.Application.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\bin\Debug\net8.0\Presupuestos.Domain.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\bin\Debug\net8.0\Presupuestos.Application.pdb
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\bin\Debug\net8.0\Presupuestos.Domain.pdb
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\Presupuestos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\Presupuestos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\Presupuestos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\Presupuestos.Infrastructure.AssemblyInfo.cs
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\Presupuestos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\Presupue.5D1CBB86.Up2Date
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\Presupuestos.Infrastructure.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\refint\Presupuestos.Infrastructure.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\Presupuestos.Infrastructure.pdb
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\ref\Presupuestos.Infrastructure.dll

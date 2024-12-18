@@ -1,0 +1,12 @@
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\bin\Debug\net8.0\Presupuestos.Domain.deps.json
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\bin\Debug\net8.0\Presupuestos.Domain.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\bin\Debug\net8.0\Presupuestos.Domain.pdb
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\Presupuestos.Domain.csproj.AssemblyReference.cache
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\Presupuestos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\Presupuestos.Domain.AssemblyInfoInputs.cache
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\Presupuestos.Domain.AssemblyInfo.cs
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\Presupuestos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\Presupuestos.Domain.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\refint\Presupuestos.Domain.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\Presupuestos.Domain.pdb
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\ref\Presupuestos.Domain.dll
