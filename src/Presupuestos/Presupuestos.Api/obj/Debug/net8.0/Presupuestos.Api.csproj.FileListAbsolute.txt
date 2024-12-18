@@ -118,3 +118,4 @@ C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupues
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Api\bin\Debug\net8.0\Presupuestos.Infrastructure.pdb
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Api\bin\Debug\net8.0\Presupuestos.Application.pdb
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Api\bin\Debug\net8.0\Presupuestos.Domain.pdb
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Api\obj\Debug\net8.0\Presupuestos.Api.sourcelink.json

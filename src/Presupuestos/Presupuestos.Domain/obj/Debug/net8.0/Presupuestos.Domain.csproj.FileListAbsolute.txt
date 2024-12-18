@@ -10,3 +10,4 @@ C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupues
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\refint\Presupuestos.Domain.dll
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\Presupuestos.Domain.pdb
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\ref\Presupuestos.Domain.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Domain\obj\Debug\net8.0\Presupuestos.Domain.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupues
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\refint\Presupuestos.Infrastructure.dll
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\Presupuestos.Infrastructure.pdb
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\ref\Presupuestos.Infrastructure.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Infrastructure\obj\Debug\net8.0\Presupuestos.Infrastructure.sourcelink.json

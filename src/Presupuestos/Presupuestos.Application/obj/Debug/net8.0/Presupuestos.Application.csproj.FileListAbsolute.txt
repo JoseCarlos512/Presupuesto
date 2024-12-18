@@ -13,3 +13,4 @@ C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupues
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Application\obj\Debug\net8.0\refint\Presupuestos.Application.dll
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Application\obj\Debug\net8.0\Presupuestos.Application.pdb
 C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Application\obj\Debug\net8.0\ref\Presupuestos.Application.dll
+C:\Users\ljose\Desktop\Workspace\backend\Presupuestos\src\Presupuestos\Presupuestos.Application\obj\Debug\net8.0\Presupuestos.Application.sourcelink.json
