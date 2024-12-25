@@ -2,26 +2,22 @@
 **/bin/
 **/obj/
 
-# Ignorar archivos generados por Rider o Visual Studio
+# Ignorar archivos generados por Visual Studio y Rider
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# Ignorar caché de Rider
-.idea/
-*.idea/
-
 # Ignorar archivos temporales y logs
 *.log
 *.vs/
+
+# Ignorar archivos de configuración de Rider
+.idea/
+.idea/**
 
 # Ignorar archivos de compilación generados por Visual Studio y otros IDEs
 **/*.dll
 **/*.exe
 **/*.pdb
-
-# Ignorar directorios y archivos de configuración de IntelliJ IDEA
-.idea/
-.idea/.idea.Presupuestos/
-.idea/vcs.xml
+**/*.cache
