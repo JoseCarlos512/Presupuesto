@@ -2,7 +2,13 @@
 
 public static partial class ApiRoutes
 {
-    public const string PRINT_ACOND_CONTROL_MAIZ_REPOSO = URL_BASE + "/acondicionamiento/control-maiz/reposo/pdf";
-    public const string PRINT_ACOND_CONTROL_TRATAMIENTO_PEF = URL_BASE + "/acondicionamiento/control-pef/pdf";
+    public const string GetActividades = URL_BASE + "/actividad/all";
+    public const string GetActividad = URL_BASE + "/actividad/{id}";
+    public const string PostActividad = URL_BASE + "/actividad";
+    public const string PutActividad = URL_BASE + "/actividad/{id}";
+    public const string DeleteActividad = URL_BASE + "/actividad/delete/{id}";
+    public const string GetActividadesEncargado = URL_BASE + "/actividad/encargado";
+    public const string GetActividadesGerencia = URL_BASE + "/actividad/gerencia";
+    public const string GetActividadesPresupuesto = URL_BASE + "/actividad/presupuesto";
 
 }

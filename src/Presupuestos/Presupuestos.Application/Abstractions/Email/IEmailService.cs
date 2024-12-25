@@ -4,5 +4,5 @@ namespace Presupuestos.Application.Abstractions.Email;
 
     public interface IEmailService
     {
-        // Task SendAsnyc(CorreoElectronico correoElectronico, string subject, string body);
+        Task SendAsnyc(string correoElectronico, string subject, string body);
     }

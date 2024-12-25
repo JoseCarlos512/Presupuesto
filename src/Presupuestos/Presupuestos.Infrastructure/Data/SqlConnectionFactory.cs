@@ -1,5 +1,6 @@
 ﻿using System.Data;
-using Npgsql;
+using Microsoft.Data.SqlClient;
+// using Npgsql;
 using Presupuestos.Application.Abstractions.Data;
 
 namespace Presupuestos.Infrastructure.Data;
@@ -15,8 +16,11 @@ internal sealed class SqlConnectionFactory : ISqlConnectionFactory
     
     public IDbConnection CreateConnection()
     {
-        var connection = new NpgsqlConnection(_connectionString);
-        connection.Open();
+        // var connection = new NpgsqlConnection(_connectionString);
+        // connection.Open();
+        // return connection;
+        var connection = new SqlConnection(_connectionString); // Usar SqlConnection para SQL Server
+        connection.Open(); // Abrir conexión
         return connection;
     }
 }

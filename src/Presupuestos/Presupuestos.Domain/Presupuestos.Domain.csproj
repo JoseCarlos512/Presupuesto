@@ -10,4 +10,11 @@
     <PackageReference Include="MediatR.Contracts" Version="2.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\Periodos\" />
+    <Folder Include="Entities\Recursos\" />
+    <Folder Include="Entities\SubTareas\" />
+    <Folder Include="Entities\Tareas\" />
+  </ItemGroup>
+
 </Project>

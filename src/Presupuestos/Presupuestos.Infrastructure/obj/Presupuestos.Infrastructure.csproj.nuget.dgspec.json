@@ -190,6 +190,9 @@
             "projectReferences": {
               "C:\\Users\\ljose\\Desktop\\Workspace\\backend\\Presupuestos\\src\\Presupuestos\\Presupuestos.Application\\Presupuestos.Application.csproj": {
                 "projectPath": "C:\\Users\\ljose\\Desktop\\Workspace\\backend\\Presupuestos\\src\\Presupuestos\\Presupuestos.Application\\Presupuestos.Application.csproj"
+              },
+              "C:\\Users\\ljose\\Desktop\\Workspace\\backend\\Presupuestos\\src\\Presupuestos\\Presupuestos.Domain\\Presupuestos.Domain.csproj": {
+                "projectPath": "C:\\Users\\ljose\\Desktop\\Workspace\\backend\\Presupuestos\\src\\Presupuestos\\Presupuestos.Domain\\Presupuestos.Domain.csproj"
               }
             }
           }
@@ -217,9 +220,17 @@
               "target": "Package",
               "version": "[8.0.6, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",

@@ -5,7 +5,10 @@ namespace Presupuestos.Api.Controllers;
 
 public class BaseController : ControllerBase
 {
-    private IMediator _mediator;
+    public BaseController(IMediator mediator)
+    {
+        Mediator = mediator;
+    }
+    protected IMediator Mediator { get; }
 
-    protected IMediator Mediator => _mediator ??= HttpContext.RequestServices.GetService<IMediator>();
 }

@@ -3,4 +3,4 @@ using Presupuestos.Application.Modules.Actividades.Response;
 
 namespace Presupuestos.Application.Modules.Actividades.Queries.GetActividades;
 
-public sealed record GetActividadesQuery(): IQuery<List<ActividadResponse>>;
+public sealed record GetActividadesQuery(string Usercode): IQuery<List<ActividadPersonalizadaResponse>>;
